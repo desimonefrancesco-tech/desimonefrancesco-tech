@@ -104,7 +104,7 @@ Projects related to:
 
 ## Connect With Me
 
-* LinkedIn: [add your profile link](https://www.linkedin.com/in/francesco-de-simone06/)
+* LinkedIn: https://www.linkedin.com/in/francesco-de-simone06/
 * GitHub: https://github.com/desimonefrancesco-tech
 
 
